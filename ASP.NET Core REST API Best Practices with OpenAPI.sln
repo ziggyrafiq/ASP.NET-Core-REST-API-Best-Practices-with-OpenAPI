@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZR.CodeExample", "ZR.CodeExample\ZR.CodeExample.csproj", "{9AB3C4E4-BB26-4D34-A891-1669359B1550}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Define Data Structures", "Define Data Structures", "{CEDECA46-E258-4185-9677-5E8F5562E67E}"
+	ProjectSection(SolutionItems) = preProject
+		Example.yaml = Example.yaml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Define Endpoints", "Define Endpoints", "{3479AAC5-BBC2-4589-B1CF-223003B29B71}"
+	ProjectSection(SolutionItems) = preProject
+		Building-API.yaml = Building-API.yaml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ASP.net Core REST API Code", "ASP.net Core REST API Code", "{0DB109E1-A6E0-4884-BCB5-C31085CFB563}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2022B6F0-9B13-4BF4-B7C6-38BD4E2D9872}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AB3C4E4-BB26-4D34-A891-1669359B1550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB3C4E4-BB26-4D34-A891-1669359B1550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB3C4E4-BB26-4D34-A891-1669359B1550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB3C4E4-BB26-4D34-A891-1669359B1550}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9AB3C4E4-BB26-4D34-A891-1669359B1550} = {0DB109E1-A6E0-4884-BCB5-C31085CFB563}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA7021E5-F8DA-4FF4-A460-832AA17D48C2}
+	EndGlobalSection
+EndGlobal
