@@ -67,7 +67,7 @@ Integrate Swagger/OpenAPI to automatically generate API documentation and enable
 
 Creating a robust ASP.NET Core REST API using OpenAPI involves adopting best practices to ensure consistency, scalability, and security. By following these guidelines, you can build APIs that are well-documented, versioned, validated, and integrated with databases seamlessly.
 
-For more in-depth insights and guidance, visit [Ziggy Rafiq's Website](https://ziggyrafiq.com)  and explore additional resources on ASP.NET Core and API development. The Article for this Project is on the following URL [Best Practices for Creating ASP.NET Core REST API using OpenAPI by[ Ziggy Rafiq(https://www.c-sharpcorner.com/article/best-practices-for-creating-asp-net-core-rest-api-using-openapi/)
+For more in-depth insights and guidance, visit [Ziggy Rafiq's Website](https://ziggyrafiq.com)  and explore additional resources on ASP.NET Core and API development. The Article for this Project is on the following URL [Best Practices for Creating ASP.NET Core REST API using OpenAPI](https://www.c-sharpcorner.com/article/best-practices-for-creating-asp-net-core-rest-api-using-openapi/) by [Ziggy Rafiq](https://ziggyrafiq.com)
 
 ## Author
 ## Ziggy Rafiq
